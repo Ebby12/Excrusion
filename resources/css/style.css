@@ -31,3 +31,9 @@ body{
     font-size: 16px;
     color:aquamarine
 }
+
+.copyfooter{
+    font-size: 21px;
+    color:grey;
+    text-align:right;
+}
